@@ -1,16 +1,24 @@
 {
   "template": [
-    "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/models/Frame.png",
-    "https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/models/Frame-1.png",
-"https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/models/Frame-2.png",
-"https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/models/Frame-3.png",
-"https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/models/Frame-4.png",
-"https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/models/Frame-5.png",
-"https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/models/Frame-6.png",
-"https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/models/Frame-7.png",
-"https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/models/Frame-8.png",
-"https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/models/Frame-9.png",
-"https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/models/Frame-10.png",
-"https://raw.githubusercontent.com/ConfigNeko/ThuanNV_Face_Detector/refs/heads/main/models/Frame-11.png"
+    "https://raw.githubusercontent.com/thuannv96/GPS-CamMap/refs/heads/main/image/video_1_1_11zon.webp",
+     "https://raw.githubusercontent.com/thuannv96/GPS-CamMap/refs/heads/main/image/video_2_2_11zon.webp",
+     "https://raw.githubusercontent.com/thuannv96/GPS-CamMap/refs/heads/main/image/video_3_3_11zon.webp",
+     "https://raw.githubusercontent.com/thuannv96/GPS-CamMap/refs/heads/main/image/video_4_4_11zon.webp",
+     "https://raw.githubusercontent.com/thuannv96/GPS-CamMap/refs/heads/main/image/video_5_5_11zon.webp",
+     "https://raw.githubusercontent.com/thuannv96/GPS-CamMap/refs/heads/main/image/video_6_6_11zon.webp",
+     "https://raw.githubusercontent.com/thuannv96/GPS-CamMap/refs/heads/main/image/video_7_7_11zon.webp",
+     "https://raw.githubusercontent.com/thuannv96/GPS-CamMap/refs/heads/main/image/video_8_8_11zon.webp",
+     "https://raw.githubusercontent.com/thuannv96/GPS-CamMap/refs/heads/main/image/video_9_9_11zon.webp",
+     "https://raw.githubusercontent.com/thuannv96/GPS-CamMap/refs/heads/main/image/video_10_10_11zon.webp",
+     "https://raw.githubusercontent.com/thuannv96/GPS-CamMap/refs/heads/main/image/video_11_11_11zon.webp",
+     "https://raw.githubusercontent.com/thuannv96/GPS-CamMap/refs/heads/main/image/video_12_12_11zon.webp",
+     "https://raw.githubusercontent.com/thuannv96/GPS-CamMap/refs/heads/main/image/video_13_13_11zon.webp",
+     "https://raw.githubusercontent.com/thuannv96/GPS-CamMap/refs/heads/main/image/video_14_14_11zon.webp",
+     "https://raw.githubusercontent.com/thuannv96/GPS-CamMap/refs/heads/main/image/video_15_15_11zon.webp",
+     "https://raw.githubusercontent.com/thuannv96/GPS-CamMap/refs/heads/main/image/video_16_16_11zon.webp",
+     "https://raw.githubusercontent.com/thuannv96/GPS-CamMap/refs/heads/main/image/video_17_17_11zon.webp",
+     "https://raw.githubusercontent.com/thuannv96/GPS-CamMap/refs/heads/main/image/video_18_18_11zon.webp",
+     "https://raw.githubusercontent.com/thuannv96/GPS-CamMap/refs/heads/main/image/video_19_19_11zon.webp",
+     "https://raw.githubusercontent.com/thuannv96/GPS-CamMap/refs/heads/main/image/video_20_20_11zon.webp"
   ]
 }
